@@ -1,7 +1,7 @@
-.bg-nav-button{
-    background-color: #B68C5A;
+.btn-warning{
+    background-color: #B68C5A !important
 }
 
 .bg-gradient{
-    background: linear-gradient(to right, #c33764, #1d2671);
+    background: linear-gradient(to top, rgba(243, 243, 243, 0), #E7E7E7) !important
 }
